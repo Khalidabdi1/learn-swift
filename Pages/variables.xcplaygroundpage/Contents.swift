@@ -1,7 +1,13 @@
-//: [Previous](@previous)
-
 import Foundation
 
-var greeting = "Hello, playground"
 
-//: [Next](@next)
+let names:Bool = false
+var twoname:Bool = false
+
+if(names==true){
+    print("yes")
+}
+
+if !twoname {
+    print("no")
+}
